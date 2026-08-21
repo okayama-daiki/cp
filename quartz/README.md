@@ -16,4 +16,4 @@ bun run dev
 
 `main`ブランチへpushすると、`.github/workflows/deploy-pages.yml`がBunでサイトをビルドしてGitHub Pagesへ自動公開します。
 
-公開URLは https://okayama-daiki.github.io/cp/ です。
+公開URLは https://okayama.daiki.dev/cp/ です。

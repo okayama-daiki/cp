@@ -203,6 +203,13 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Quartz build artifacts and dependencies
+quartz/node_modules/
+quartz/public/
+quartz/.quartz/
+quartz/.quartz-cache/
+quartz/tsconfig.tsbuildinfo
+
 # Ruff stuff:
 .ruff_cache/
 

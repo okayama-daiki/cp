@@ -1,0 +1,12 @@
+@use "./variables.scss" as *;
+
+// Keep long Japanese article titles readable in lists and search results.
+.page-listing .section-li > .section > .desc,
+.recent-notes > ul > li {
+  line-height: 1.65;
+}
+
+article img {
+  border: 1px solid var(--lightgray);
+  border-radius: 0.5rem;
+}
